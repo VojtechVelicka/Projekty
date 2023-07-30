@@ -1,0 +1,15 @@
+C:\Users\vojta\Desktop\Projekty\SpravaPojistenych_Velicka\bin\Debug\net7.0\SpravaPojistenych_Velicka.exe
+C:\Users\vojta\Desktop\Projekty\SpravaPojistenych_Velicka\bin\Debug\net7.0\SpravaPojistenych_Velicka.deps.json
+C:\Users\vojta\Desktop\Projekty\SpravaPojistenych_Velicka\bin\Debug\net7.0\SpravaPojistenych_Velicka.runtimeconfig.json
+C:\Users\vojta\Desktop\Projekty\SpravaPojistenych_Velicka\bin\Debug\net7.0\SpravaPojistenych_Velicka.dll
+C:\Users\vojta\Desktop\Projekty\SpravaPojistenych_Velicka\bin\Debug\net7.0\SpravaPojistenych_Velicka.pdb
+C:\Users\vojta\Desktop\Projekty\SpravaPojistenych_Velicka\obj\Debug\net7.0\SpravaPojistenych_Velicka.csproj.AssemblyReference.cache
+C:\Users\vojta\Desktop\Projekty\SpravaPojistenych_Velicka\obj\Debug\net7.0\SpravaPojistenych_Velicka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vojta\Desktop\Projekty\SpravaPojistenych_Velicka\obj\Debug\net7.0\SpravaPojistenych_Velicka.AssemblyInfoInputs.cache
+C:\Users\vojta\Desktop\Projekty\SpravaPojistenych_Velicka\obj\Debug\net7.0\SpravaPojistenych_Velicka.AssemblyInfo.cs
+C:\Users\vojta\Desktop\Projekty\SpravaPojistenych_Velicka\obj\Debug\net7.0\SpravaPojistenych_Velicka.csproj.CoreCompileInputs.cache
+C:\Users\vojta\Desktop\Projekty\SpravaPojistenych_Velicka\obj\Debug\net7.0\SpravaPojistenych_Velicka.dll
+C:\Users\vojta\Desktop\Projekty\SpravaPojistenych_Velicka\obj\Debug\net7.0\refint\SpravaPojistenych_Velicka.dll
+C:\Users\vojta\Desktop\Projekty\SpravaPojistenych_Velicka\obj\Debug\net7.0\SpravaPojistenych_Velicka.pdb
+C:\Users\vojta\Desktop\Projekty\SpravaPojistenych_Velicka\obj\Debug\net7.0\SpravaPojistenych_Velicka.genruntimeconfig.cache
+C:\Users\vojta\Desktop\Projekty\SpravaPojistenych_Velicka\obj\Debug\net7.0\ref\SpravaPojistenych_Velicka.dll
